@@ -45,16 +45,6 @@
 
 ## 📡 LIVE FEED
 
-<!-- GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/HELLBOY3110">
-    <img src="https://github-readme-stats.vercel.app/api?username=HELLBOY3110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff3333&text_color=c9d1d9&cache_seconds=7200&include_all_commits=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/HELLBOY3110">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLBOY3110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=7200" height="180" alt="Top Languages" />
-  </a>
-</div>
-
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://github.com/HELLBOY3110">
@@ -62,16 +52,35 @@
   </a>
 </div>
 
+<!-- GitHub Contribution Graph -->
+<div align="center">
+  <a href="https://github.com/HELLBOY3110">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HELLBOY3110&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=ff3333&point=00ff41&area=true&area_color=ff3333" alt="Contribution Graph" />
+  </a>
+</div>
+
 ---
 
 ## 🎯 ACTIVE OPERATIONS
 
-<!-- Trophy -->
-<div align="center">
-  <a href="https://github.com/HELLBOY3110">
-    <img src="https://github-profile-trophy.vercel.app/?username=HELLBOY3110&theme=matrix&no-frame=true&no-bg=true&margin-w=4&cache_seconds=7200" alt="GitHub Trophies" />
-  </a>
-</div>
+```
+    🏆 ACHIEVEMENTS UNLOCKED
+    ═════════════════════════
+
+    [✓] First Blood          —  Initial commit deployed
+    [✓] Persistent Threat    —  30+ day commit streak
+    [✓] Code Ninja           —  Multi-language proficiency
+    [✓] Open Source Agent    —  Active community contributor
+    [✓] Red Team Certified   —  Security research & PoC dev
+
+    📊 MISSION METRICS
+    ═════════════════════════
+
+    Total Commits    ████████████████████░░░░░   48
+    Repositories     ████████░░░░░░░░░░░░░░░░░   8
+    Streak Best      ████████████░░░░░░░░░░░░░   4 days
+    Languages        █████████████████████████   5+
+```
 
 ---
 
