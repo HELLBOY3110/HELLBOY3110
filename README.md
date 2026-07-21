@@ -47,13 +47,19 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HELLBOY3110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff3333&text_color=c9d1d9" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLBOY3110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" height="180" />
+  <a href="https://github.com/HELLBOY3110">
+    <img src="https://github-readme-stats.vercel.app/api?username=HELLBOY3110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff3333&text_color=c9d1d9&cache_seconds=1800" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/HELLBOY3110">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLBOY3110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HELLBOY3110&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=ff3333&fire=ff3333&currStreakLabel=00ff41" />
+  <a href="https://github.com/HELLBOY3110">
+    <img src="https://streak-stats.demolab.com?user=HELLBOY3110&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=ff3333&fire=ff3333&currStreakLabel=00ff41&cache_seconds=1800" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -62,7 +68,9 @@
 
 <!-- Trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HELLBOY3110&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+  <a href="https://github.com/HELLBOY3110">
+    <img src="https://github-profile-trophy.vercel.app/?username=HELLBOY3110&theme=matrix&no-frame=true&no-bg=true&margin-w=4&cache_seconds=1800" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -82,7 +90,11 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  </picture>
 </div>
 
 <!-- Footer Banner -->
@@ -90,7 +102,7 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/HELLBOY3110/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=HELLBOY3110&color=00ff41&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
