@@ -48,17 +48,17 @@
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://github.com/HELLBOY3110">
-    <img src="https://github-readme-stats.vercel.app/api?username=HELLBOY3110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff3333&text_color=c9d1d9&cache_seconds=1800" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HELLBOY3110&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff3333&text_color=c9d1d9&cache_seconds=7200&include_all_commits=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/HELLBOY3110">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLBOY3110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=1800" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLBOY3110&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&cache_seconds=7200" height="180" alt="Top Languages" />
   </a>
 </div>
 
 <!-- Streak Stats -->
 <div align="center">
   <a href="https://github.com/HELLBOY3110">
-    <img src="https://streak-stats.demolab.com?user=HELLBOY3110&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=ff3333&fire=ff3333&currStreakLabel=00ff41&cache_seconds=1800" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HELLBOY3110&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=ff3333&fire=ff3333&currStreakLabel=00ff41&cache_seconds=7200" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@
 <!-- Trophy -->
 <div align="center">
   <a href="https://github.com/HELLBOY3110">
-    <img src="https://github-profile-trophy.vercel.app/?username=HELLBOY3110&theme=matrix&no-frame=true&no-bg=true&margin-w=4&cache_seconds=1800" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=HELLBOY3110&theme=matrix&no-frame=true&no-bg=true&margin-w=4&cache_seconds=7200" alt="GitHub Trophies" />
   </a>
 </div>
 
