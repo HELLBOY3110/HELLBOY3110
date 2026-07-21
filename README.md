@@ -1,23 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  BOOT SEQUENCE — ANIMATED HEADER                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=200&section=header&text=HELLBOY3110&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=⚡%20THREAT%20ACTOR%20//%20RED%20TEAM%20//%20EXPLOIT%20DEV&descSize=14&descAlignY=70&descColor=ff3333" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:000000&height=180&section=header&text=HELLBOY3110&fontSize=60&fontColor=00ff41&animation=twinkling&fontAlignY=45&desc=⚡%20THREAT%20ACTOR%20//%20RED%20TEAM%20//%20EXPLOIT%20DEV&descSize=14&descAlignY=70&descColor=ff3333" />
 
 <br>
 
-<!-- Terminal Typing — Reverse Shell Vibes -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=600&color=00FF41&center=true&vCenter=true&width=900&lines=nc+-lvnp+4444;python3+-c+'import+pty;pty.spawn("/bin/bash")';sudo+-l;find+/+-perm+-4000+-type+f+2>/dev/null;echo+'[+]ROOTED';whoami;echo+'WE+ARE+IN.'" alt="Terminal" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=600&color=00FF41&center=true&vCenter=true&width=850&lines=nc+-lvnp+4444;python3+-c+'import+pty;pty.spawn("/bin/bash")';sudo+-l;find+/+-perm+-4000+-type+f+2>/dev/null;echo+'[+]ROOTED';whoami;echo+'WE+ARE+IN.'" />
 
 <br><br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  STATUS BAR — COMPACT THREAT METER                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -28,10 +17,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  ARSENAL — BADGE GRID (COMPACT)                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -54,10 +39,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  LIVE FEED — SIDE BY SIDE (NO SCROLLING)               -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 📡 LIVE FEED
@@ -65,18 +46,16 @@
 <a href="https://github.com/HELLBOY3110">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HELLBOY3110&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=ff3333&fire=ff3333&currStreakLabel=00ff41&cache_seconds=7200" height="150" />
 </a>
-&nbsp;
+
+<br><br>
+
 <a href="https://github.com/HELLBOY3110">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HELLBOY3110&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=ff3333&point=00ff41&area=true&area_color=ff3333&height=150" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HELLBOY3110&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=ff3333&point=00ff41&area=true&area_color=ff3333&height=200" />
 </a>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  CVE TRACKER — COMPACT TABLE                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -94,10 +73,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  CONNECT — INLINE BADGES                                -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🌐 CONNECT
@@ -108,10 +83,6 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=ff3333&labelColor=0d1117)](https://)
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  SNAKE + FOOTER — COLLAPSED                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-contribution-grid-snake-dark.svg" />
