@@ -5,10 +5,16 @@
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#00ff41" stroke-opacity=".07"/></pattern>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
+  <style>
+    .scan{animation:scan 4.5s linear infinite}.pulse{animation:pulse 1.8s ease-in-out infinite}.glitch{animation:glitch 5s steps(1) infinite}
+    @keyframes scan{from{transform:translateY(-35px)}to{transform:translateY(335px)}}
+    @keyframes pulse{50%{opacity:.25}}@keyframes glitch{0%,92%,100%{transform:translate(0)}93%{transform:translate(5px,-2px)}94%{transform:translate(-3px,2px)}95%{transform:translate(0)}}
+  </style>
   <rect width="1200" height="300" rx="12" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="298" rx="11" fill="url(#grid)" stroke="#00ff41" stroke-opacity=".32"/>
+  <rect class="scan" x="2" y="0" width="1196" height="28" fill="#00ff41" opacity=".035"/>
   <path d="M0 54H1200M0 246H1200" stroke="#ff3344" stroke-opacity=".28"/>
   <g font-family="Consolas,Monaco,monospace"><circle cx="34" cy="28" r="6" fill="#ff3344"/><circle cx="54" cy="28" r="6" fill="#ffbd2e"/><circle cx="74" cy="28" r="6" fill="#00ff41"/>
     <text x="600" y="33" text-anchor="middle" fill="#637083" font-size="13">root@hellboy3110 — secure shell</text><text x="44" y="91" fill="#00ff41" font-size="16">root@node:~$ whoami</text>
-    <text x="600" y="175" text-anchor="middle" fill="#00ff41" font-size="68" font-weight="700" letter-spacing="8" filter="url(#glow)">HELLBOY3110</text><text x="600" y="215" text-anchor="middle" fill="#ff3344" font-size="16" letter-spacing="5">RED TEAM // EXPLOIT DEV // SECURITY RESEARCH</text>
-    <text x="44" y="271" fill="#52606d" font-size="13">[ encrypted transmission ]</text><text x="1156" y="271" text-anchor="end" fill="#00ff41" font-size="13">● ONLINE</text></g>
+    <text class="glitch" x="600" y="175" text-anchor="middle" fill="#00ff41" font-size="68" font-weight="700" letter-spacing="8" filter="url(#glow)">HELLBOY3110</text><text x="600" y="215" text-anchor="middle" fill="#ff3344" font-size="16" letter-spacing="5">RED TEAM // EXPLOIT DEV // SECURITY RESEARCH</text>
+    <text x="44" y="271" fill="#52606d" font-size="13">[ encrypted transmission ]</text><text class="pulse" x="1156" y="271" text-anchor="end" fill="#00ff41" font-size="13">● ONLINE</text></g>
 </svg>
