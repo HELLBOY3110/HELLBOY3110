@@ -16,13 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate neon contribution animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#ff3344&color_dots=#ebedf0,#9be9a8,#40c463,#00ff41,#008f25
-            dist/github-snake-dark.svg?color_snake=#ff3344&color_dots=#0d1117,#003b10,#007a21,#00bd33,#00ff41
+            dist/github-snake-dark.svg?color_snake=#ff3344&color_dots=#21262d,#003b10,#007a21,#00bd33,#00ff41
+
+      - name: Add timeline and signal legend
+        run: python scripts/decorate_snake.py dist/github-snake.svg dist/github-snake-dark.svg
 
       - name: Publish animation branch
         uses: crazy-max/ghaction-github-pages@v4
