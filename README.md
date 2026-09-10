@@ -59,9 +59,9 @@ status: "building, testing, learning"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-snake.svg?v=2" />
-  <img src="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-snake-dark.svg?v=2" width="100%" alt="Animated contribution snake with monthly timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-snake.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/HELLBOY3110/HELLBOY3110/output/github-snake-dark.svg?v=3" width="100%" alt="Animated contribution snake with monthly timeline" />
 </picture>
 
 <sub><code>Automated daily · contribution grid ingestion active</code></sub>
